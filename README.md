@@ -6,6 +6,10 @@ This project implements an **FPGA-based LED mood lighting system** that allows u
 
 The system uses **PWM (Pulse Width Modulation)** to control LED brightness in discrete levels, enabling smooth and intuitive color mixing. Users can select colors and adjust brightness through hardware buttons and switches, while the current state is displayed via a 7-segment display.
 
+
+## 🎥 Demo Video
+[![FPGA RGB LED Mood Lighting Demo](https://img.youtube.com/vi/n0v9a2z2PoQ/0.jpg)](https://youtu.be/n0v9a2z2PoQ)
+
 ---
 
 ## 🎯 Key Features
