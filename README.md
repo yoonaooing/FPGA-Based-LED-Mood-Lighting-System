@@ -1,8 +1,8 @@
-# FPGA-Based-RGB-LED-Mood-Lighting-System
+# FPGA Based LED Mood Lighting System
 (Digital Systems Design and Lab Project)
 
 ## 📌 Project Overview
-This project implements an **FPGA-based RGB LED mood lighting system** that allows users to create various lighting effects by independently controlling the brightness of Red, Green, and Blue LEDs.
+This project implements an **FPGA-based LED mood lighting system** that allows users to create various lighting effects by independently controlling the brightness of Red, Green, and Blue LEDs.
 
 The system uses **PWM (Pulse Width Modulation)** to control LED brightness in discrete levels, enabling smooth and intuitive color mixing. Users can select colors and adjust brightness through hardware buttons and switches, while the current state is displayed via a 7-segment display.
 
