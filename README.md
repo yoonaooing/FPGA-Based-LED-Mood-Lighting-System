@@ -8,7 +8,7 @@ The system uses **PWM (Pulse Width Modulation)** to control LED brightness in di
 
 
 ## 🎥 Demo Video
-[[FPGA RGB LED Mood Lighting Demo]](https://youtu.be/n0v9a2z2PoQ)
+[[FPGA RGB LED Mood Lighting Demo]](https://youtu.be/ChyVWKPR8jU?si=Cfdzf7FORDP9ivCn)
 
 ---
 
